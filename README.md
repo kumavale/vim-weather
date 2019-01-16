@@ -12,7 +12,7 @@ Plug 'yorimoi/vim-weather'
 
 ## Requirements
 Vim version 8.0 or higher.  
-And you need the \`[curl]\`(https://curl.haxx.se/) or \`[wget]\`(https://www.gnu.org/software/wget/) command.
+And you need the \`[curl](https://curl.haxx.se/)\` or \`[wget](https://www.gnu.org/software/wget/)\` command.
 
 ## Settings
 ToDo
