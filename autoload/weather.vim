@@ -15,12 +15,6 @@ let s:status = get(g:, 'weather#status_map', {
 let g:weather#area = get(g:, 'weather#area', 'Yokohama-shi')
 let g:weather#unit = get(g:, 'weather#unit', 'metric')
 
-" .vimrc Example
-" let g:weather#appid = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
-" let g:weather#area = 'Tokyo'
-" let g:weather#unit = 'imperial'
-
-command! -nargs=? Weather call Weather(<f-args>)
 function! Weather(...) abort
   if a:0 == 1
     let g:weather#area = a:1
