@@ -15,7 +15,7 @@ let s:status = get(g:, 'weather#status_map', {
 let g:weather#area = get(g:, 'weather#area', 'Yokohama-shi')
 let g:weather#unit = get(g:, 'weather#unit', 'metric')
 
-function! Weather(...) abort
+function! weather#main(...) abort
   if a:0 == 1
     let g:weather#area = a:1
   end

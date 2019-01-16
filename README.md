@@ -5,7 +5,6 @@
 
 ## Installation
 To install using [vim-plug](https://github.com/junegunn/vim-plug):
-Add this line to your .vimrc file
 ```
 Plug 'yorimoi/vim-weather'
 ```

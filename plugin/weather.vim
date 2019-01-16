@@ -1,1 +1,1 @@
-command! -nargs=? Weather call Weather(<f-args>)
+command! -nargs=? Weather call weather#main(<f-args>)
