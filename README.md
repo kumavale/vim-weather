@@ -1,5 +1,5 @@
 # vim-weather
-![image](https://user-images.githubusercontent.com/29778890/51436048-aba0f480-1cc8-11e9-8e8e-8bf2b0cc58a3.png)
+![demo](https://user-images.githubusercontent.com/29778890/51680148-4df00d80-2024-11e9-9cbe-942bda5df1de.gif)
 
 ## Usage
 `:Weather [city]`
