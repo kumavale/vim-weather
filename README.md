@@ -23,5 +23,7 @@ let g:weather#area = 'Tokyo'
 let g:weather#unit = 'metric'(℃) or 'imperial'(℉)
 ```
 
+<!--
 ## License
-Public Domain
+MIT
+-->
