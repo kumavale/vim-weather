@@ -20,10 +20,8 @@ And you need the \`[curl](https://curl.haxx.se/)\` or \`[wget](https://www.gnu.o
 ```
 let g:weather#appid = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 let g:weather#area = 'Tokyo'
-let g:weather#unit = 'metric'(℃) or 'imperial'(℉)
+let g:weather#unit = 'metric'(°C) or 'imperial'(°F)
 ```
 
-<!--
 ## License
 MIT
--->
