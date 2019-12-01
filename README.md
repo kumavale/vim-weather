@@ -7,7 +7,7 @@
 ## Installation
 To install using [vim-plug](https://github.com/junegunn/vim-plug):
 ```
-Plug 'yorimoi/vim-weather'
+Plug 'kumavale/vim-weather'
 ```
 `:PlugInstall`
 
